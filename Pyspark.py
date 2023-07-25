@@ -14,7 +14,6 @@ display(df)
 dbutils.fs.mount(
 source = "wasbs://raw@saakshistorage2.blob.core.windows.net",
 mount_point = "/mnt/test_db_2.0/outputs",
-extra_configs = {"fs.azure.account.key.saakshistorage2.blob.core.windows.net":"/gt6jmiEPXOIuYd+agoYPsUwOt9QrnOVFqFrK3yRIXNYdHbpVpHABuwvdKSK8JGpwutO/MDgMBPl+AStp+A5AQ=="})
 
 # COMMAND ----------
 
