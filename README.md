@@ -1,6 +1,6 @@
-# pyspark-databrick-azure
+# Pyspark-Databrick-Azure
 
-business use case
+Business Use Case
 
 Azure blob -> Databricks (pyspark)  -> Buisness insight
 
